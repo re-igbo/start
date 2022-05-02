@@ -21,3 +21,8 @@ The Igbo Language as of today is a shabby effort that does not properly account 
  3. Rebuild ALL syllables/characters from a basic, medium and advanced perspective (Perhaps based on how they can be easily pronounced as a child grows)
  4. Publish Initial draft for private review
  5. Continuous review and improvements
+
+
+# How to Join/Help
+ 1. If you have a github account, kindly hit watch on the project.
+ 2. If you don't have a github account, but you can help with awareness or other kind of input, kindly [send a message on Twitter](https://twitter.com/skydancelord).
